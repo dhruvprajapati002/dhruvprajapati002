@@ -181,17 +181,11 @@ const dhruv = {
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-7c3aed?style=for-the-badge&logoColor=white)]([https://your-portfolio.com](https://dhruv-portfolio-23.vercel.app/))
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvprajapati002)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-prajapati-204549278/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvprajapati0023@gmail.com)
 
 <br/>
-
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dhruvprajapati002)
-&nbsp;
-[![Dev.to](https://img.shields.io/badge/Dev.to-Read_Blogs-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dhruvprajapati002)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dhruvprajapati002)
 
 </div>
 
